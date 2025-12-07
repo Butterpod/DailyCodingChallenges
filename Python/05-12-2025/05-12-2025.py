@@ -14,3 +14,5 @@ def difference(arr1, arr2):
     print(liContains)
 
     return liContains
+
+print(difference([1,2,3],[3,4,5]))
