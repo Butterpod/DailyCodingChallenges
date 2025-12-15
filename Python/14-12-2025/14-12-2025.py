@@ -13,4 +13,4 @@ def title_case(title):
 title_case("hello world")  # "Hello World".
 title_case("the quick brown fox")  # "The Quick Brown Fox"
 title_case("JAVASCRIPT AND PYTHON")  # "Javascript And Python"
-title_case("AvOcAdO tOAst fOr brEAkfAst")  # "Avocado Toast For Breakfast".
+title_case("AvOcAdO tOAst fOr brEAkfAst")  # "Avocado Toast For Breakfast"
