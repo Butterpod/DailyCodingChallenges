@@ -1,2 +1,3 @@
 # DailyCodingChallenges
-DailyCodingChallenges From free code Camp, in C# , Python and Java
+DailyCodingChallenges From freecodeCamp, in C# , Python and Java
+https://www.freecodecamp.org/learn/daily-coding-challenge/archive 
