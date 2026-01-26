@@ -1,10 +1,5 @@
 def scale_image(size, scale):
-    print(size)
-    print(scale)
     a=size.split('x')
-    print(int(a[0])*2)
-    print(f"{int(a[0])*scale:n}x{int(a[1])*scale:n}")
-
     return f"{int(a[0])*scale:n}x{int(a[1])*scale:n}"
 
 scale_image("800x600", 2) #"1600x1200".
